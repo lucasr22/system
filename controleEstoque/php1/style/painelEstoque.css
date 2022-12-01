@@ -1,0 +1,112 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+aside{
+	width: 15%;
+	height: 800px;
+	background-color: #4c839d;
+	border:1px solid #fff ;
+}
+ 
+aside h2{
+ 	color: white;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	padding-top: 14%;
+ 	padding-left: 5%;
+ }
+
+ aside button{
+
+ 	width: 100%;
+ 	padding: 9%;
+ 	color: white;
+ 	font-size: 1.2em;
+ 	font-family: sans-serif;
+ 	background-color: transparent;
+ 	border: 1px solid transparent;
+ 	
+
+ }
+
+aside i{
+ 	font-size: 25px;
+ 	position: absolute;
+ 	right: 54.5em
+ }
+
+article{
+	width: 85%;
+	background-color:white;
+	position: absolute;
+    height: 800px;
+    left: 15%;
+    top: 0;
+}
+
+article h1{
+	margin-left: 4%;
+	margin-top: 2%;
+}
+
+#mostra{
+	width: 85%;
+	padding: 1%;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	margin-top: 5%;
+	margin-left: 3%;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: white;
+}
+
+table{
+	margin-left: 3%;
+	position: absolute;
+	top: 59%;
+
+}
+
+#tabela{
+	position: absolute;
+	top:46%;
+}
+
+#bttn{
+	position: absolute;
+	left: 28%;
+	top: 20.3%;
+}
+
+#apres{
+	width: 78%;
+	height: 50%;
+	margin-left: 2%;
+	margin-top: 18%;
+}
+
+#atual{
+	width: 20%;
+	display: block;
+	margin-left: 78%;
+	margin-top: -3%;
+}
+
+#atual input{
+	margin: 3%;
+}
+
+h2{
+	text-align: center;
+}
+
+#cad{
+	width: 75%;
+	margin-left: 0.5%;
+	position: absolute;
+	top: 30%;
+}
+

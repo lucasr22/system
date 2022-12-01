@@ -1,0 +1,115 @@
+* {
+padding:0;
+margin:0;
+
+} 
+
+
+
+form{
+	width: 40%;
+    height: 70%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    text-align: center;
+  
+}
+
+input{
+	width: 75%;
+	padding: 4%;
+	display: block;
+	margin-left: 12%;
+	margin-top: 4%;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+h2{
+	margin-top:3% ;
+	font-family: sans-serif;
+}
+
+#buttonn{
+	width: 75%;
+	position: absolute;
+	left: 12%;
+	margin-top: 5%;
+	background-color: #1a73e8;
+	padding: 2.5%;
+	border: 1px solid #1a73e8;
+	border-radius: 10px;
+	font-size: 1.7em;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+#buttonn:hover{
+	background-color: #2685FF;
+	border: 5px solid #2685FF;
+}
+nav{
+	width: 100%;
+	height: 78px;
+	background-color: #212529;
+	box-shadow: inset 0 0 5rem rgba(0, 0, 5, .5);
+	
+}
+i{
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	top: 18;
+	left: 5;
+}
+h1{
+	position: absolute;
+  	top: 22;
+  	left: 47%;
+  	font-size: 1.5em;
+  	color: white;
+  	font-family: sans-serif;
+}
+
+nav button{
+	width: 12%;
+	padding: 1%;
+	position: absolute;
+	left: 87%;
+	top: 16;
+	background-color: #212122;
+	border: 1px solid #1a73e8;
+	border-radius: 5px;
+	font-size: 1.2em;
+	font-family: sans-serif;
+	color: white;	
+}
+
+nav button:hover{
+	background-color: #2685FF;
+	border-radius: 5px solid #1a73e8;
+}
+
+footer{
+	position: absolute;
+	top: 92%;
+	width: 100%;
+	height: 60px;
+	background-color: #212529;
+	font-size: 1.5em;
+	font-family: sans-serif;
+	color: white;
+	box-shadow: inset 0 0 5rem rgba(0, 0, 5, .5);
+	text-align: center;
+}
+
+div{
+	width: 100%;
+}
+
+a{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
